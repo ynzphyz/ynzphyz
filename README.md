@@ -124,12 +124,7 @@ A comprehensive **production-grade** equipment management system with:
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ynzphyz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynzphyz&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
-
-</div>
 
 ---
 
