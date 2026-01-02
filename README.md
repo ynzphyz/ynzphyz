@@ -118,15 +118,32 @@ A comprehensive **production-grade** equipment management system with:
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=ynzphyz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynzphyz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+
+<!-- GitHub Stats Card -->
+<a href="https://github.com/ynzphyz">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ynzphyz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+</a>
+<a href="https://github.com/ynzphyz">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ynzphyz&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="180"/>
+</a>
 
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ynzphyz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<!-- GitHub Streak -->
+<a href="https://github.com/ynzphyz">
+  <img src="https://streak-stats.demolab.com/?user=ynzphyz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<a href="https://github.com/ynzphyz">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ynzphyz&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</a>
 
 </div>
 
